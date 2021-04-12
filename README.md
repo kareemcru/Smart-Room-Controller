@@ -1,4 +1,4 @@
-# Zaddy's Smart-Room-Controller
+# Kareem's Smart-Room-Controller
 
 ## Overview
 The purpose of this project is to make something cool (like a remote xD)
@@ -13,6 +13,12 @@ The project will use these components
 * breadboard
 * Wires
 * Teensy 3.2 microcontroller
+* Servo motor
+* Encoder/ Encoder dial
+* Joystick
+* Ethernet cables and attachment
+* Neopixels
+* OLED display
 
 
 ## Summary
