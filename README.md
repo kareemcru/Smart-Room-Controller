@@ -19,5 +19,5 @@ The project will use these components
 
 This was a *great* project!! ** I learned so much LOL!**
 
-here is a link to my project on [Hackster](bigpapi's.com).
+here is a link to my project on [Hackster](https://www.hackster.io/kareemcru/smart-room-controller-30cf39)
 
